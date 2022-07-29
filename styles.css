@@ -1,0 +1,88 @@
+/*carousel-start-here */
+.carousel-item img {
+              height: 80vh;
+              object-fit: cover;
+}
+
+.carousel-caption {
+              position: absolute;
+              left: 50%;
+              top: 50%;
+              transform: translate(-50%, -50%);
+              height: auto;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+              width: 3rem;
+              height: 3rem;
+}
+
+/* carousel-end-here */
+
+/* course-start-here */
+#courses-section {
+              margin: 90px 0;
+}
+
+.course-text>div {
+              padding: 0 200px;
+}
+
+/* course-ends-here */
+
+/* ready-section-start-here */
+#ready-section {
+              margin: 70px 0;
+}
+
+/* ready-section-start-here */
+#student-section {
+              margin-bottom: 60px;
+}
+
+.student-text {
+              width: 50%;
+}
+
+/* review-section-start-here */
+#review-section {
+              margin-bottom: 80px;
+}
+
+.fa-solid,
+.fa-star-half {
+              color: rgb(253, 188, 22);
+}
+
+/* question-section-start-here */
+#question-section {
+              margin-bottom: 70px;
+}
+
+/* company-section-start-here */
+#company-section {
+              margin-bottom: 90px;
+}
+
+.company-name img {
+              width: 100px;
+}
+
+/* footer-section-start-here */
+.social-icon a {
+              color: white;
+              font-size: 28px;
+              margin: 0 20px;
+}
+
+.fa-brands:hover {
+              transform: translateY(-5px);
+              transition: transform 0.2s ease-out;
+}
+
+.footer-hr {
+              width: 2px;
+              height: 15px;
+              margin: auto 8px;
+}
